@@ -1,0 +1,19 @@
+{
+  "name": "poppins-configure-label",
+  "version": "0.0.1",
+  "description": "Configures the poppins-label plugin",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogniteev/poppins-configure-label.git"
+  },
+  "keywords": [
+    "marry-poppins",
+    "poppins"
+  ],
+  "author": "Cogniteev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cogniteev/poppins-configure-label/issues"
+  }
+}
